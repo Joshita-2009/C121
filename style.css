@@ -1,0 +1,30 @@
+.footer{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background:lightslategray;
+    height: auto;
+    width: 100vw;
+    padding-top:10px;
+    color: #fff;
+}
+.footer-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fcfcfc;
+    font-family: sans-serif;
+}
+output{
+    box-shadow:5px 5px 5px gray;
+}
